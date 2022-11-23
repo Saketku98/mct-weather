@@ -1,0 +1,35 @@
+.col-md-12{
+  background-color: seashell;
+}
+.weather{
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.title{
+  color:rgb(241, 106, 106);
+  font-weight: 600;
+}
+.box{
+  margin: auto;
+  background-color: azure;
+  width: 500px;
+  height: 300px;
+}
+.icon{
+  margin-top: 1.5rem;
+  width: 60px;
+  height: 60px;
+}
+.city{
+  font-size: 25px;
+}
+.temp{
+  font-size:30px;
+  font-weight: 700;
+}
+.humidity{
+  font-size: 20px;
+}
